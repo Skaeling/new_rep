@@ -4,6 +4,6 @@ def title_text(string):
     return result
 
 def upper_text(string):
-    '''делает заглавными каждую букву в строке'''
+    '''делает заглавной каждую букву в строке'''
     result = string.upper()
     return result
